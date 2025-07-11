@@ -1,2 +1,2 @@
 # qrtool
-Handle QR code on Windows desktop using the clipboard and this app.
+Handle QR codes on Windows desktop using the clipboard and this app.
