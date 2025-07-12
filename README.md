@@ -17,7 +17,7 @@ There are many ways to use it. Snip a QR code on the screen, or right-click on a
 Run qrtool.exe (I have the icon pinned to my Taskbar) and then CTRL-V paste the text into an application 
 like Notepad. I have my most consistent positive results when using Windows' Snipping tool.
 
-In reverse, CTRL-C copy text, then run qrtool.exe.  The CTRL-V paste into a graphics 
+In reverse, CTRL-C copy text, then run qrtool.exe.  Then CTRL-V paste into a graphics 
 application like Paint or AutoCAD or your PDF editor.
 
 NOTE: There is no feedback. You'll know it worked when you paste. That's exactly
