@@ -14,8 +14,8 @@ This tool does not try to send the qr code data anywhere.  It simply copies it t
 clipboard so you can paste it.
 
 There are many ways to use it. Snip a QR code on the screen, or right-click on a QR and 'Copy Image'.
-Run qrtool.exe and then CTRL-V paste the text into an application like Notepad. I have my most
-consistent positive results when using Windows' Snipping tool.
+Run qrtool.exe (I have the icon pinned to my Taskbar) and then CTRL-V paste the text into an application 
+like Notepad. I have my most consistent positive results when using Windows' Snipping tool.
 
 In reverse, CTRL-C copy text, then run qrtool.exe.  The CTRL-V paste into a graphics 
 application like Paint or AutoCAD or your PDF editor.
