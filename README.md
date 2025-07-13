@@ -1,8 +1,8 @@
-# qrtool - no camera, no Internet needed.
+# qr4wd - QR for Win Desktop. No Camera, No Internet needed.
 
 ### Handle QR codes on Windows desktop using the clipboard and this app.
 
-"qrtool" is a utility to get text in and out of QR codes on the Windows desktop.
+"qr4wd" is a utility to get text in and out of QR codes on the Windows desktop.
 It does this by reading the current contents of the clipboard then doing one of two things:
 
  - If it finds text in the clipboard, it generates a QR code of that text
@@ -22,3 +22,4 @@ application like Paint or AutoCAD or your PDF editor.
 
 NOTE: There is no feedback. You'll know it worked when you paste. That's exactly
 what I wanted.
+NOTENOTE: I originally named this project 'qrtool'. Then I realized I had not searched the net first. Oops.
