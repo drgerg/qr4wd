@@ -22,4 +22,5 @@ application like Paint or AutoCAD or your PDF editor.
 
 NOTE: There is no feedback. You'll know it worked when you paste. That's exactly
 what I wanted.
+
 NOTENOTE: I originally named this project 'qrtool'. Then I realized I had not searched the net first. Oops.
